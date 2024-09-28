@@ -39,7 +39,7 @@
 | C/C++      |   Not Started   |
 | Python      |   Not Started   |
 | Javascript       |   Not Started   |
-| Design Patterns       |   Not Started   |
+| [Design Patterns](https://github.com/vssGithub/Lab/tree/main/Level3/DesignPatterns)     |   Not Started   |
 | DSA       |   Not Started   |
 | System Design       |   Not Started   |
 | Concurrency       |   Not Started   |
