@@ -19,3 +19,14 @@
 - [] Embedded OS (Concurrency)
 - [] Build a CPU
 - [] Nand2Tetris
+
+## Level 1
+| :------: | :------: |
+| Module | Status |
+|                     | Not Started | In Progress | Complete |
+| :---------------- | :------: | ----: |
+| MCU      | - [] | - [] | - [] |
+| Drivers          | - [] | - [] | - [] |
+| Embedded OS (Concurrency)    | - [] | - [] | - [] |
+| Build a CPU | - [] | - [] | - [] |
+| Nand2Tetris | - [] | - [] | - [] |
