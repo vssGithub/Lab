@@ -40,7 +40,7 @@
 | Python      |   Not Started   |
 | Javascript       |   Not Started   |
 | [Design Patterns](https://github.com/vssGithub/Lab/tree/main/Level3/DesignPatterns)     |   Not Started   |
-| DSA       |   Not Started   |
+| [DSA](https://github.com/vssGithub/DSA)       |   Not Started   |
 | System Design       |   Not Started   |
 | Concurrency       |   Not Started   |
 | Embedded Linux       |   Not Started   |
