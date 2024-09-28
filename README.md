@@ -12,13 +12,19 @@
 - [] test
 
 ## Level 3
+
 ## Level 2
-## Level 1
-- [] MCU
-- [] Drivers
-- [] Embedded OS (Concurrency)
-- [] Build a CPU
-- [] Nand2Tetris
+| Module              | Status |
+| :---------------- | :------: |
+| Kernel (windows/linux/LLVM)       |   Not Started   |
+| Dmitry           |   Not Started    |
+| Compilers   |  Not Started    |
+| Multithreaded Kernel |  Not Started    |
+| Assembly |  Not Started    |
+| Sockets |  Not Started    |
+| Wireshark |  Not Started    |
+| Packet Analysis |  Not Started    |
+| DSP (python, c++) |  Not Started    |
 
 ## Level 1
 | Module              | Status |
