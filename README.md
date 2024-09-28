@@ -12,6 +12,19 @@
 - [] test
 
 ## Level 3
+| Module              | Status |
+| :---------------- | :------: |
+| C#       |   Not Started   |
+| Java       |   Not Started   |
+| C/C++      |   Not Started   |
+| Python      |   Not Started   |
+| Javascript       |   Not Started   |
+| Design Patterns       |   Not Started   |
+| DSA       |   Not Started   |
+| System Design       |   Not Started   |
+| Concurrency       |   Not Started   |
+| Embedded Linux       |   Not Started   |
+
 
 ## Level 2
 | Module              | Status |
